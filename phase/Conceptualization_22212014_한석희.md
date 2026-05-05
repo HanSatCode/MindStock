@@ -28,7 +28,7 @@
 빠른 호흡의 실시간 전략적 게임 플레이를 가볍게 즐기고 싶은 이용자
 
 ##  2. System context diagram
-![](https://raw.githubusercontent.com/HanSatCode/MindStock/refs/heads/main/phase/img/Conceptualization_Diagram.png)
+![](https://github.com/HanSatCode/MindStock/blob/main/phase/img/Conceptualization_Diagram.png?raw=true)
 
 
 - **Login** : 플레이어 로그인
