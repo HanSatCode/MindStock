@@ -1,13 +1,14 @@
-# 1. Conceptualization
+# Conceptualization
 |주제|내용|비고|
 |----|---|---|
-|Project name|Stocker||
+|Project name|MindStock||
 |Project author|22212014 한석희|han028@yu.ac.kr|
-|Project Link| https://github.com/HanSatCode/Stocker|Github|
+|Project Link| https://github.com/HanSatCode/MindStock|Github|
 ## Revision history
 |Revision date|Version|Description|Authoor
-|----|---|---|---|
-|n/a|n/a|n/a|n/a|
+|:----:|:---:|:---:|:---:|
+|2026.05.05|1.1|Change project name|한석희|
+|2026.03.23|1.0|Initial Document|한석희|
 ## 1. Buisiness Purpose
 #### a) Project background & Motivation
 
@@ -27,7 +28,8 @@
 빠른 호흡의 실시간 전략적 게임 플레이를 가볍게 즐기고 싶은 이용자
 
 ##  2. System context diagram
-![](/phase/img/Conceptualization_Diagram.png)
+![](https://raw.githubusercontent.com/HanSatCode/MindStock/refs/heads/main/phase/img/Conceptualization_Diagram.png)
+
 
 - **Login** : 플레이어 로그인
 -  **Registration** : 플레이어 (계정) 등록
@@ -155,7 +157,7 @@
 
 ## 5. Problem statement
 ### Overview
-‘Stocker’는 웹 플렛폼을 기반으로 한 시뮬레이션 게임 서비스이며, 모든 데이터는 실시간으로 처리 및 동기화된다. 해당 서비스를 구성 및 서비스를 하는 과정에서 여러 가지 문제가 발생할 것으로 예상된다.
+‘MindStock’는 웹 플렛폼을 기반으로 한 시뮬레이션 게임 서비스이며, 모든 데이터는 실시간으로 처리 및 동기화된다. 해당 서비스를 구성 및 서비스를 하는 과정에서 여러 가지 문제가 발생할 것으로 예상된다.
 
 #### Problem 01 - 서버 성능 및 과부하 제어
  짧은 시간 단위로 변하는 주가 데이터를 모든 클라이언트에 실시간으로 동시에 보내야 하는 게임 서비스 특성상, 플레이어 수가 증가할수록 서버 자원 소모가 극심해지는 문제가 발생한다. 특히, 주가 데이터 외에도 사용자 정보, 랭킹 시스템 등의 갱신 데이터까지 실시간으로 처리할 경우, 서버의 연산과 네트워크 부하는 더더욱 가중될 것이다.
