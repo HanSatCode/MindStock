@@ -7,3 +7,7 @@
 |:---|:---:|
 |Conceptualization|[Link](https://github.com/HanSatCode/MindStock/blob/main/phase/Conceptualization_22212014_%ED%95%9C%EC%84%9D%ED%9D%AC.md)|
 |Analysis|[Link](https://github.com/HanSatCode/MindStock/blob/main/phase/Analysis_22212014_%ED%95%9C%EC%84%9D%ED%9D%AC.md)|
+|Design|[Link](https://github.com/HanSatCode/MindStock/blob/main/phase/Design_22212014_%ED%95%9C%EC%84%9D%ED%9D%AC.md)|
+
+### Services
+Work In Progress :3
